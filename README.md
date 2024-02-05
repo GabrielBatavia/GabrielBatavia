@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://kaggle.com/gabrielbatavia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="gabrielbatavia" height="30" width="40" /></a>
-<a href="https://fb.com/GabrielBatavia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gabrielbatavia" height="30" width="40" /></a>
+<a href="https://fb.com/gabriel.gamer.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gabrielbatavia" height="30" width="40" /></a>
 <a href="https://instagram.com/gabrielbatavia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gabrielbatavia" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@gabrielbatavia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gabrielbatavia" height="30" width="40" /></a>
 </p>
