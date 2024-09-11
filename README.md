@@ -1,7 +1,6 @@
 ![MasterHead](https://indusuni.ac.in/uploads/blogs/iite/Understanding%20the%20Hype%20Around%20Machine%20Learning.gif)
 
 <h1 align="center">Hi 👋, I'm Gabriel Batavia Xaverius</h1>
-<h3 align="center">Indonesia’s Emerging Talent in Machine Learning & Data Science</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielbatavia&label=Profile%20views&color=0e75b6&style=flat" alt="gabrielbatavia" /> </p>
 
