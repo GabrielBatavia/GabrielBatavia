@@ -1,16 +1,13 @@
 <div align="center">
 
-<!-- HEADER SECTION -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Gabriel%20Batavia%20Xaverius&fontSize=42&fontColor=e6edf3&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%20%26%20Machine%20Learning%20%7C%20Full-Stack%20Developer&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%"/>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0d2149,70:1a3a7a,100:1f6feb&height=200&section=header&text=Gabriel%20Batavia%20Xaverius&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20%26%20ML%20%7C%20Full-Stack%20Developer&descSize=15&descColor=8b949e&descAlignY=58&animation=fadeIn)
 
-<!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+intelligent+systems+with+code+%F0%9F%A7%A0;Turning+data+into+decisions+%F0%9F%93%8A;Crafting+pixel-perfect+experiences+%E2%9C%A8;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=100&lines=Building+intelligent+systems+with+code+%F0%9F%A7%A0;Turning+data+into+decisions+%F0%9F%93%8A;Crafting+pixel-perfect+experiences+%E2%9C%A8;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- SOCIAL BADGES -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-batavia-xaverius/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gabrielbatavia)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/gabrielbatavia)
@@ -18,13 +15,15 @@
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielbatavia7@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://gabrielbatavia.github.io)
 
-<img src="https://komarev.com/ghpvc/?username=gabrielbatavia&label=Profile%20Views&color=1f6feb&style=flat-square&abbreviated=true" alt="Profile Views"/>
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=gabrielbatavia&label=Profile%20Views&color=1f6feb&style=flat-square&abbreviated=true)
 
 </div>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="28" /> &nbsp;About Me
+## 👨‍💻 &nbsp;About Me
 
 ```yaml
 name: Gabriel Batavia Xaverius
@@ -48,7 +47,7 @@ interests:
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="28" /> &nbsp;Tech Stack
+## 🛠️ &nbsp;Tech Stack
 
 <div align="center">
 
@@ -56,7 +55,7 @@ interests:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit--learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -74,7 +73,7 @@ interests:
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-### 🛠️ &nbsp;Tools & Platforms
+### ⚙️ &nbsp;Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -86,7 +85,7 @@ interests:
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="28" /> &nbsp;Featured Projects
+## 🚀 &nbsp;Featured Projects
 
 <div align="center">
 <table>
@@ -115,11 +114,11 @@ interests:
     <img src="https://img.shields.io/badge/VIEW_REPO-1f6feb?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
   </a>
 </p>
-<p align="center">AI-powered application that tracks mood patterns and recommends therapeutic music using machine learning.</p>
+<p align="center">AI-powered application that tracks mood patterns and recommends therapeutic music using ML.</p>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AI/ML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI%2FML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
 </p>
 
 </td>
@@ -171,7 +170,7 @@ interests:
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/CNN-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Deep_Learning-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
 </p>
 
 </td>
@@ -197,7 +196,7 @@ interests:
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="28" /> &nbsp;GitHub Analytics
+## 🔥 &nbsp;GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielbatavia&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=58a6ff&count_private=true" alt="Gabriel's GitHub Stats"/>
@@ -208,7 +207,7 @@ interests:
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielbatavia&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=ff6a00&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=e6edf3&sideNums=e6edf3&dates=6e7681" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=gabrielbatavia&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=ff6a00&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=e6edf3&sideNums=e6edf3&dates=6e7681" alt="GitHub Streak"/>
 </div>
 
 <br/>
@@ -219,7 +218,7 @@ interests:
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Trophy" width="28" /> &nbsp;GitHub Trophies
+## 🏆 &nbsp;GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=gabrielbatavia&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies"/>
@@ -227,21 +226,9 @@ interests:
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Snake.png" alt="Snake" width="28" /> &nbsp;Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielBatavia/GabrielBatavia/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GabrielBatavia/GabrielBatavia/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/GabrielBatavia/GabrielBatavia/output/github-snake-dark.svg" />
-  </picture>
-</div>
-
----
-
 <div align="center">
 
-### 💬 &nbsp;Let's Connect!
+## 💬 &nbsp;Let's Connect!
 
 <br/>
 
@@ -250,11 +237,11 @@ interests:
 
 <br/>
 
-[![Email](https://img.shields.io/badge/📧_gabrielbatavia7@gmail.com-EA4335?style=for-the-badge&logoColor=white)](mailto:gabrielbatavia7@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-batavia-xaverius/)
+[![Email](https://img.shields.io/badge/gabrielbatavia7%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielbatavia7@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-batavia-xaverius/)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=120&section=footer" width="100%"/>
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,70:0d2149,100:0d1117&height=120&section=footer)
 
 </div>
